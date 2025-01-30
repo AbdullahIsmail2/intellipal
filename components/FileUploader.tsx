@@ -40,7 +40,7 @@ export default function FileUploader() {
             <>
               <CircleArrowDown className="h-20 w-20 animate-bounce" />
               <p>
-                Drag 'n' drop some files here, or{" "}
+                Drag n drop some files here, or{" "}
                 <span className="underline text-indigo-700">
                   click to select files
                 </span>
