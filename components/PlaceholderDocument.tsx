@@ -9,7 +9,7 @@ export default function PlaceholderDocument() {
 
   const handleClick = () => {
     // check if user is free tier and if they are over file limit then pish them to upgrade screen
-    router.push("/documents/upload");
+    router.push("/dashboard/upload");
   };
   return (
     <Button
